@@ -1,6 +1,7 @@
 package Variables;
 
-//Declare a variable for the radius of a circle. Calculate its area and print the result. (Formula: 'm * radius * radius*)
+//Declare a variable for the radius of a circle. Calculate its area and print the result. 
+// (Formula: 'm * radius * radius*)
 
 public class AreaofaCircle {
 
@@ -8,7 +9,7 @@ public class AreaofaCircle {
 		
         double radius = 7.5;
 
-        // Calculate the area of the circle (using formula: π * radius * radius)
+        // Calculate the area of the circle (using formula: π(3.14) * radius * radius)
         double area = Math.PI * radius * radius;
 
         // Print the result

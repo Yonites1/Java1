@@ -11,7 +11,7 @@ public class Compound_Assignment {
        
         System.out.println("Initial value: " + num);
         
-        // Use compound assignment operators to increase the value incrementally
+        
         num += 5; // equivalent to num = num + 5;
         System.out.println("After += 5: " + num);
         

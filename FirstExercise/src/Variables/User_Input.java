@@ -2,7 +2,8 @@ package Variables;
 
 import java.util.Scanner;
 
-//User Input: Use the Scanner' class to get an input string from the user and store it in a variable. Then, print it out.
+//User Input: Use the Scanner' class to get an input
+//string from the user and store it in a variable. Then, print it out.
 
 public class User_Input {
 	public static void main(String[] args) {

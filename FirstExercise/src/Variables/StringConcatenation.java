@@ -6,8 +6,8 @@ public class StringConcatenation {
 
 	public static void main(String[] args) {
 		 // Declare and initialize string variables
-        String firstName = "John";
-        String lastName = "Doe";
+        String firstName = "Yonathan";
+        String lastName = "Tesfahun";
         
         // Concatenate the strings
         String fullName = firstName + " " + lastName;
