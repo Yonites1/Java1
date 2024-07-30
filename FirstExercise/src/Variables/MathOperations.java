@@ -1,10 +1,11 @@
 package Variables;
+
 //Math Operations: Declare two integer variables. Initialize them with values and then print out the sum, difference, multiplication, and division results.
 
 public class MathOperations {
 
 	public static void main(String[] args) {
-		 // Declare and initialize integer variables
+		 
         int num1 = 10;
         int num2 = 5;
         
