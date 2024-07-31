@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 // Declare two string variables, initialize them with first name and last name respectively. Concatenate them and print the full name.
 

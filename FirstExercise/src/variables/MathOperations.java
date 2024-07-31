@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 //Math Operations: Declare two integer variables. Initialize them with values and then print out the sum, difference, multiplication, and division results.
 

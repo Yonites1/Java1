@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 //Declare an integer variable. Assign it a value, print it, 
 //reassign a new value, and then print it again.

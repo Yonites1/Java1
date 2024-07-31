@@ -1,5 +1,7 @@
 package operators;
 
+//Q: Conditional Operator (Ternary): Write a program that reads a number and prints "Positive", "Negative", or "Zero" using the ternary operator.
+
 public class Conditional_Operator_OR_Ternary {
 
 	public static void main(String[] args) {

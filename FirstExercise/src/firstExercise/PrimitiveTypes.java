@@ -1,4 +1,4 @@
-package FirstExercise;
+package firstExercise;
 
 public class PrimitiveTypes {
 

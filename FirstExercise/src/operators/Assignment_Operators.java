@@ -2,9 +2,8 @@ package operators;
 
 //Q: Assignment Operators: Use assignment operators to halve a number continuously until it is less than 1.
 
-import java.util.Scanner;
-
 public class Assignment_Operators {
+	
 	public static void main(String[] args) {
 		
 		// Define the initial number directly in the code
