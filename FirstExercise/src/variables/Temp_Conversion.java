@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 //Temperature Conversion: Declare a variable for temperature in Celsius. Convert it to Fahrenheit and print both values. (Formula: (celsius * 9/5) + 32)
 
 public class Temp_Conversion {

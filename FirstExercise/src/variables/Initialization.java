@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 //Declare three different variables ('int', 'double', and
 //'char') and initialize them with values. Then, print them out. solve this in java using eclips
 

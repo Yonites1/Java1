@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 //Declare a variable for the radius of a circle. Calculate its area and print the result. 
 // (Formula: 'm * radius * radius*)

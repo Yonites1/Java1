@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 
 //Declare an integer variable with a value. Use compound assignment operators to increase its value incrementally and print the results.
 

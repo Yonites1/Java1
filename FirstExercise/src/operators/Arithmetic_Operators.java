@@ -2,8 +2,6 @@ package operators;
 
 //Q: Arithmetic Operators: Write a program that takes two numbers as input and then displays their sum, difference, product, quotient, and remainder. 
 
-import java.util.Scanner;
-
 public class Arithmetic_Operators {
 
 	public static void main(String[] args) {

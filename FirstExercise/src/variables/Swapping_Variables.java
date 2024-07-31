@@ -1,4 +1,4 @@
-package Variables;
+package variables;
 //Declare two integer variables and initialize them. Write code to swap their values without using a third variable.
 
 public class Swapping_Variables {
